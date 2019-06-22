@@ -6,6 +6,5 @@ Since I couldn't get HTTPS working with the ESP8266 (yet), I just used a HTTP we
 
 ![Here is the schematic](https://i.imgur.com/TU4W2Qd.png)
 
- https://youtu.be/sfb3pHnpmUw
 
 [![Here is a video of it working](http://img.youtube.com/vi/sfb3pHnpmUw/0.jpg)](https://youtu.be/sfb3pHnpmUw "Here is a video of it working")
